@@ -1,0 +1,31 @@
+{
+    "tags":[
+        {
+            "name":"源码",
+            "desc":"",
+            "level":0
+        },
+        {
+            "name":"教程",
+            "desc":"",
+            "level":0
+        },
+        {
+            "name":"反馈",
+            "desc":"",
+            "level":10
+        }
+    ],
+    "labels":[
+        {
+            "id":"article",
+            "name":"文章",
+            "level":0
+        },
+        {
+            "id":"question",
+            "name":"提问",
+            "level":10
+        }
+    ]
+}
