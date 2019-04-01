@@ -13,7 +13,11 @@
         {
             "name":"反馈",
             "desc":"",
-            "level":10
+            "level":0
+        },{
+            "name":"提问",
+            "desc":"",
+            "level":0
         }
     ],
     "labels":[
@@ -24,6 +28,7 @@
         },
         {
             "id":"question",
+            "desc":"功能暂未完成"
             "name":"提问",
             "level":10
         }
